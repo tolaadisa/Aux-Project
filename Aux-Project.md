@@ -1,7 +1,7 @@
 ### AUX PROJECT 1: SHELL SCRIPTING
 Note that the shell script that was created and used for this project can be found here:
 
-[SCRIPT FOR THE PROJECT](https://link-url-here.org)
+[SCRIPT FOR THE PROJECT](https://github.com/tolaadisa/Aux-Project/blob/main/onboard.sh)
 
 
 Upon creating the script, the script was copied to the AWS server as shown in snapshot below:
